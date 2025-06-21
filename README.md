@@ -12,11 +12,11 @@
 - Clean layout using Excel dashboard best practices
 
 ## 📁 Files
-- 'https://1drv.ms/x/c/856d4cc55aaafc76/EeH5ZCGX321DtNXGPieHn08BU7jv11_wxDHvzV53jNvWpg?e=DminXU' – The full dashboard
-- 'https://1drv.ms/i/c/856d4cc55aaafc76/EQa70DGiATJIoqXaHrEa4J0BG5zLCArW0J608LqEABDuug?e=VAHpDY' – A preview image 
+- 'Sales_Performance_Dashboard_Himani' – The full dashboard
+- 'https://1drv.ms/i/c/856d4cc55aaafc76/EaI0x0shD2VAk90awHu3UOEBwwMKXCVPtTsyZGRH8LIW5w?e=X2fQT0' – A preview image 
 
 ## 📷 Preview
-![Dashboard Screenshot](https://1drv.ms/i/c/856d4cc55aaafc76/EQa70DGiATJIoqXaHrEa4J0BG5zLCArW0J608LqEABDuug?e=VAHpDY)
+![Dashboard Screenshot](https://1drv.ms/i/c/856d4cc55aaafc76/EaI0x0shD2VAk90awHu3UOEBwwMKXCVPtTsyZGRH8LIW5w?e=X2fQT0)
 
 ## 📌 Built With
 - Microsoft Excel (PivotTables, Slicers, Formulas)
